@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model_Archive_List>
+  <bin Model_Name="model_2_Riv_3" FileType="bin">
+    <FileName Model_Name="model_2_Riv_3" FileType="bin">C:\Users\Samed\Downloads\mf6.5.0_win64\mf6.5.0_win64\bin\mf6.exe</FileName>
+  </bin>
+  <ancillary Model_Name="model_2_Riv_3" FileType="ancillary">
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">C:\Users\Samed\OneDrive - CF Lab GmbH\Desktop\MODELMUSE STUDY AREA EXTRA FILES TO PLAY\Model 2 - New River Package Coupled - used for testing - with code river package creating\model_2_Riv.riv</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">C:\Users\Samed\OneDrive - CF Lab GmbH\Desktop\MODELMUSE STUDY AREA EXTRA FILES TO PLAY\Model 4 - New River Package with uniform cells riv 1 m\initial_depths_real_elevations_SHP.dbf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">C:\Users\Samed\OneDrive - CF Lab GmbH\Desktop\MODELMUSE STUDY AREA EXTRA FILES TO PLAY\Model 4 - New River Package with uniform cells riv 1 m\initial_depths_real_elevations_SHP.prj</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">C:\Users\Samed\OneDrive - CF Lab GmbH\Desktop\MODELMUSE STUDY AREA EXTRA FILES TO PLAY\Model 4 - New River Package with uniform cells riv 1 m\initial_depths_real_elevations_SHP.shp</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">C:\Users\Samed\OneDrive - CF Lab GmbH\Desktop\MODELMUSE STUDY AREA EXTRA FILES TO PLAY\Model 4 - New River Package with uniform cells riv 1 m\initial_depths_real_elevations_SHP.shx</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">model_2_Riv_3.gpt</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\dgmdata_for_modelmuse.grd</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\init_water_levels_for_modelmuse.grd</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\initial_water_depths_newest.grd</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\initial_water_levels_elevation.dbf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\initial_water_levels_elevation.prj</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\initial_water_levels_elevation.shp</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\initial_water_levels_elevation.shx</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\Model 2 - New River Package Coupled\initial_depths_real_elevations_SHP.dbf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\Model 2 - New River Package Coupled\initial_depths_real_elevations_SHP.prj</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\Model 2 - New River Package Coupled\initial_depths_real_elevations_SHP.shp</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\Model 2 - New River Package Coupled\initial_depths_real_elevations_SHP.shx</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\png.png</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\shp_from_23042\umgrenzug1.dbf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\shp_from_23042\umgrenzug1.prj</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\shp_from_23042\umgrenzug1.shp</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\shp_from_23042\umgrenzug1.shx</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\study_area_example_aquifers.dbf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\study_area_example_aquifers.prj</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\study_area_example_aquifers.qix</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\study_area_example_aquifers.shp</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="ancillary">..\..\MODELMUSE\study_area_example_aquifers.shx</FileName>
+  </ancillary>
+  <model Model_Name="model_2_Riv_3" FileType="Model Input">
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">mfsim.nam</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.dis</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.gsf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.ic</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.ims</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.nam.archive</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.npf</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.oc</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.sto</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">model_2_Riv_3.tdis</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">RunModflow.Bat.archive</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Input">usgs.model_2_Riv_3.reference</FileName>
+  </model>
+  <output Model_Name="model_2_Riv_3" FileType="Model Output">
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">mfsim.lst</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.bhd</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.cbc</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.dis.grb</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.InnerSolution.CSV</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.lst</FileName>
+    <FileName Model_Name="model_2_Riv_3" FileType="Model Output">model_2_Riv_3.OuterSolution.CSV</FileName>
+  </output>
+</Model_Archive_List>
