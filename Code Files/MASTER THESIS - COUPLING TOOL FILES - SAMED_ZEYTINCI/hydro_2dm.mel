@@ -1,0 +1,1250 @@
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-13 23:11:42)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-13 23:11:44)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-13 23:11:45)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-13 23:11:46)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-13 23:11:47)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-13 23:11:49)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-13 23:11:50)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-13 23:11:52)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-13 23:11:53)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-13 23:11:55)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-13 23:11:56)
+ 
+  ncycle, CPU, CPU / ncycle         5169   59.04688      1.1423268E-02
+ 
+ 
+  Die Simulation wurde in 0.2510991 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-14 00:10:34)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-14 00:10:36)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.205441 2025-07-14 00:10:37)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.177741 2025-07-14 00:10:38)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.177985 2025-07-14 00:10:39)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.185323 2025-07-14 00:10:41)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.183351 2025-07-14 00:10:42)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.177982 2025-07-14 00:10:44)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.188915 2025-07-14 00:10:45)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.180572 2025-07-14 00:10:47)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.183897 2025-07-14 00:10:48)
+ 
+  ncycle, CPU, CPU / ncycle         5160   58.25000      1.1288759E-02
+ 
+ 
+  Die Simulation wurde in 0.2493776 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.194580 2025-07-14 00:12:21)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.168069 2025-07-14 00:12:23)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.183936 2025-07-14 00:12:24)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.190040 2025-07-14 00:12:26)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.181695 2025-07-14 00:12:27)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.182593 2025-07-14 00:12:29)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.185438 2025-07-14 00:12:30)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.182858 2025-07-14 00:12:32)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187590 2025-07-14 00:12:33)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.182071 2025-07-14 00:12:35)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.184761 2025-07-14 00:12:36)
+ 
+  ncycle, CPU, CPU / ncycle         5482   60.54688      1.1044669E-02
+ 
+ 
+  Die Simulation wurde in 0.2583705 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.194580 2025-07-14 00:13:04)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.168069 2025-07-14 00:13:06)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.183936 2025-07-14 00:13:07)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.190040 2025-07-14 00:13:08)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.181695 2025-07-14 00:13:10)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.182593 2025-07-14 00:13:11)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.185438 2025-07-14 00:13:12)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.182858 2025-07-14 00:13:14)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187590 2025-07-14 00:13:15)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.182071 2025-07-14 00:13:17)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.184761 2025-07-14 00:13:18)
+ 
+  ncycle, CPU, CPU / ncycle         5482   58.04688      1.0588631E-02
+ 
+ 
+  Die Simulation wurde in 0.2462676 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.183071 2025-07-14 00:13:54)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.182547 2025-07-14 00:13:55)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.181736 2025-07-14 00:13:56)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.169111 2025-07-14 00:13:58)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.166080 2025-07-14 00:13:59)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.163186 2025-07-14 00:14:01)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.153958 2025-07-14 00:14:02)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.134762 2025-07-14 00:14:04)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.130253 2025-07-14 00:14:05)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.125490 2025-07-14 00:14:07)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.120439 2025-07-14 00:14:09)
+ 
+  ncycle, CPU, CPU / ncycle         6522   63.81250      9.7841918E-03
+ 
+ 
+  Die Simulation wurde in 0.2704739 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.121545 2025-07-14 00:14:45)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.118867 2025-07-14 00:14:47)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.115796 2025-07-14 00:14:49)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.116332 2025-07-14 00:14:51)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.115679 2025-07-14 00:14:53)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.114328 2025-07-14 00:14:55)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.109662 2025-07-14 00:14:57)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.111664 2025-07-14 00:14:59)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.106886 2025-07-14 00:15:01)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.105293 2025-07-14 00:15:03)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.107714 2025-07-14 00:15:05)
+ 
+  ncycle, CPU, CPU / ncycle         8907   82.46875      9.2588691E-03
+ 
+ 
+  Die Simulation wurde in 0.3489250 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.107326 2025-07-14 00:15:41)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.102703 2025-07-14 00:15:44)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.101678 2025-07-14 00:15:46)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.103176 2025-07-14 00:15:48)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.098854 2025-07-14 00:15:50)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.099402 2025-07-14 00:15:53)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.097897 2025-07-14 00:15:55)
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 9948.
+INFO: Letzer gueltiger Zeitschritt= 0 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.098062 2025-07-14 00:15:57)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.098042 2025-07-14 00:15:59)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.099059 2025-07-14 00:16:02)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.097362 2025-07-14 00:16:04)
+ 
+  ncycle, CPU, CPU / ncycle         9997   90.92188      9.0949163E-03
+ 
+ 
+  Die Simulation wurde in 0.3843338 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           4
+*** number of licenses:            1
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 723.
+INFO: Letzer gueltiger Zeitschritt= -1 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.097660 2025-07-14 00:16:38)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.094672 2025-07-14 00:16:40)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.095664 2025-07-14 00:16:42)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.093422 2025-07-14 00:16:45)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.093080 2025-07-14 00:16:47)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.094815 2025-07-14 00:16:50)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.092595 2025-07-14 00:16:52)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.092484 2025-07-14 00:16:54)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.093831 2025-07-14 00:16:56)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.090858 2025-07-14 00:16:59)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.090337 2025-07-14 00:17:01)
+ 
+  ncycle, CPU, CPU / ncycle        10716   94.79688      8.8462932E-03
+ 
+ 
+  Die Simulation wurde in 0.3998065 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-14 22:59:07)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-14 22:59:08)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-14 22:59:08)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-14 22:59:09)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-14 22:59:10)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-14 22:59:11)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-14 22:59:12)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-14 22:59:13)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-14 22:59:13)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-14 22:59:15)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-14 22:59:15)
+ 
+  ncycle, CPU, CPU / ncycle         5169   106.1562      2.0537097E-02
+ 
+ 
+  Die Simulation wurde in 0.1517590 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.184788 2025-07-14 22:59:44)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.173891 2025-07-14 22:59:45)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.172628 2025-07-14 22:59:46)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.161518 2025-07-14 22:59:47)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.186039 2025-07-14 22:59:48)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.190497 2025-07-14 22:59:49)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.179036 2025-07-14 22:59:49)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.180336 2025-07-14 22:59:50)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.190821 2025-07-14 22:59:51)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.191762 2025-07-14 22:59:52)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.189040 2025-07-14 22:59:52)
+ 
+  ncycle, CPU, CPU / ncycle         5441   106.3594      1.9547762E-02
+ 
+ 
+  Die Simulation wurde in 0.1512221 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.191156 2025-07-14 23:00:22)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.183768 2025-07-14 23:00:23)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.180812 2025-07-14 23:00:24)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.172127 2025-07-14 23:00:25)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.184707 2025-07-14 23:00:25)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.183795 2025-07-14 23:00:27)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181803 2025-07-14 23:00:27)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.176172 2025-07-14 23:00:28)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.183125 2025-07-14 23:00:29)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.168031 2025-07-14 23:00:30)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.164325 2025-07-14 23:00:30)
+ 
+  ncycle, CPU, CPU / ncycle         5613   102.5312      1.8266747E-02
+ 
+ 
+  Die Simulation wurde in 0.1439732 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.164305 2025-07-14 23:00:59)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.162177 2025-07-14 23:01:00)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.161757 2025-07-14 23:01:01)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.156590 2025-07-14 23:01:02)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.136464 2025-07-14 23:01:03)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.124823 2025-07-14 23:01:04)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.115008 2025-07-14 23:01:05)
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 9948.
+INFO: Letzer gueltiger Zeitschritt= 0 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.110732 2025-07-14 23:01:07)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.110320 2025-07-14 23:01:08)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.107163 2025-07-14 23:01:09)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.106162 2025-07-14 23:01:10)
+ 
+  ncycle, CPU, CPU / ncycle         7794   132.5938      1.7012285E-02
+ 
+ 
+  Die Simulation wurde in 0.1916654 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 723.
+INFO: Letzer gueltiger Zeitschritt= -1 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.106559 2025-07-14 23:01:39)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.101164 2025-07-14 23:01:41)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.101111 2025-07-14 23:01:42)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.100066 2025-07-14 23:01:43)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.101657 2025-07-14 23:01:44)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.100380 2025-07-14 23:01:46)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.097128 2025-07-14 23:01:46)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.095838 2025-07-14 23:01:48)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.096064 2025-07-14 23:01:49)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.096423 2025-07-14 23:01:50)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.097521 2025-07-14 23:01:51)
+ 
+  ncycle, CPU, CPU / ncycle        10086   154.0000      1.5268689E-02
+ 
+ 
+  Die Simulation wurde in 0.2181268 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-14 23:08:17)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-14 23:08:18)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-14 23:08:19)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-14 23:08:20)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-14 23:08:20)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-14 23:08:22)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-14 23:08:22)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-14 23:08:23)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-14 23:08:24)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-14 23:08:25)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-14 23:08:25)
+ 
+  ncycle, CPU, CPU / ncycle         5169   102.1250      1.9757206E-02
+ 
+ 
+  Die Simulation wurde in 0.1447752 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-14 23:38:39)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-14 23:38:40)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-14 23:38:40)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-14 23:38:41)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-14 23:38:42)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-14 23:38:43)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-14 23:38:43)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-14 23:38:44)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-14 23:38:45)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-14 23:38:46)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-14 23:38:46)
+ 
+  ncycle, CPU, CPU / ncycle         5169   102.9219      1.9911371E-02
+ 
+ 
+  Die Simulation wurde in 0.1452103 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.184788 2025-07-14 23:39:16)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.173891 2025-07-14 23:39:17)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.172628 2025-07-14 23:39:17)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.161518 2025-07-14 23:39:18)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.186039 2025-07-14 23:39:19)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.190497 2025-07-14 23:39:20)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.179036 2025-07-14 23:39:21)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.180336 2025-07-14 23:39:22)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.190821 2025-07-14 23:39:22)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.191762 2025-07-14 23:39:23)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.189040 2025-07-14 23:39:24)
+ 
+  ncycle, CPU, CPU / ncycle         5441   106.6875      1.9608069E-02
+ 
+ 
+  Die Simulation wurde in 0.1522745 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.191156 2025-07-14 23:39:53)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.183768 2025-07-14 23:39:54)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.180812 2025-07-14 23:39:55)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.172127 2025-07-14 23:39:56)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.184707 2025-07-14 23:39:57)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.183795 2025-07-14 23:39:58)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181803 2025-07-14 23:39:58)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.176172 2025-07-14 23:40:00)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.183125 2025-07-14 23:40:00)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.168031 2025-07-14 23:40:01)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.164325 2025-07-14 23:40:02)
+ 
+  ncycle, CPU, CPU / ncycle         5613   109.3281      1.9477664E-02
+ 
+ 
+  Die Simulation wurde in 0.1558321 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.164305 2025-07-14 23:40:31)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.162177 2025-07-14 23:40:32)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.161757 2025-07-14 23:40:33)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.156590 2025-07-14 23:40:34)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.136464 2025-07-14 23:40:34)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.124823 2025-07-14 23:40:36)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.115008 2025-07-14 23:40:36)
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 9948.
+INFO: Letzer gueltiger Zeitschritt= 0 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.110732 2025-07-14 23:40:38)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.110320 2025-07-14 23:40:39)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.107163 2025-07-14 23:40:40)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.106162 2025-07-14 23:40:41)
+ 
+  ncycle, CPU, CPU / ncycle         7794   124.7344      1.6003897E-02
+ 
+ 
+  Die Simulation wurde in 0.1743621 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 723.
+INFO: Letzer gueltiger Zeitschritt= -1 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.106559 2025-07-14 23:41:11)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.101164 2025-07-14 23:41:12)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.101111 2025-07-14 23:41:13)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.100066 2025-07-14 23:41:15)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.101657 2025-07-14 23:41:15)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.100380 2025-07-14 23:41:17)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.097128 2025-07-14 23:41:18)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.095838 2025-07-14 23:41:19)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.096064 2025-07-14 23:41:20)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.096423 2025-07-14 23:41:22)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.097521 2025-07-14 23:41:22)
+ 
+  ncycle, CPU, CPU / ncycle        10086   146.7500      1.4549871E-02
+ 
+ 
+  Die Simulation wurde in 0.2055379 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-15 00:00:39)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-15 00:00:40)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-15 00:00:40)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-15 00:00:41)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-15 00:00:42)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-15 00:00:43)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-15 00:00:43)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-15 00:00:44)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-15 00:00:45)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-15 00:00:46)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-15 00:00:46)
+ 
+  ncycle, CPU, CPU / ncycle         5169   98.82812      1.9119389E-02
+ 
+ 
+  Die Simulation wurde in 0.1384289 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.184920 2025-07-15 00:02:14)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.191614 2025-07-15 00:02:15)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.186734 2025-07-15 00:02:16)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.189469 2025-07-15 00:02:17)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.186706 2025-07-15 00:02:17)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.186257 2025-07-15 00:02:18)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.185310 2025-07-15 00:02:19)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.179211 2025-07-15 00:02:20)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.186550 2025-07-15 00:02:20)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.192391 2025-07-15 00:02:21)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.189920 2025-07-15 00:02:22)
+ 
+  ncycle, CPU, CPU / ncycle         5429   101.7344      1.8739063E-02
+ 
+ 
+  Die Simulation wurde in 0.1425014 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.188251 2025-07-15 00:03:49)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.178181 2025-07-15 00:03:50)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.184184 2025-07-15 00:03:50)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.174805 2025-07-15 00:03:52)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.178256 2025-07-15 00:03:52)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.181312 2025-07-15 00:03:53)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.183170 2025-07-15 00:03:54)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.167324 2025-07-15 00:03:55)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.181914 2025-07-15 00:03:55)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.169377 2025-07-15 00:03:56)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.165370 2025-07-15 00:03:57)
+ 
+  ncycle, CPU, CPU / ncycle         5601   102.1562      1.8238930E-02
+ 
+ 
+  Die Simulation wurde in 0.1431146 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.166159 2025-07-15 00:05:25)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.162737 2025-07-15 00:05:26)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.161872 2025-07-15 00:05:27)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.161569 2025-07-15 00:05:28)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.149741 2025-07-15 00:05:28)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.133256 2025-07-15 00:05:30)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.122723 2025-07-15 00:05:30)
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 9948.
+INFO: Letzer gueltiger Zeitschritt= 0 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.116419 2025-07-15 00:05:32)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.111718 2025-07-15 00:05:33)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.108877 2025-07-15 00:05:34)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.106769 2025-07-15 00:05:35)
+ 
+  ncycle, CPU, CPU / ncycle         7529   126.3125      1.6776796E-02
+ 
+ 
+  Die Simulation wurde in 0.1786471 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:          12
+*** number of licenses:            3
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 723.
+INFO: Letzer gueltiger Zeitschritt= -1 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.107884 2025-07-15 00:07:03)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.107371 2025-07-15 00:07:04)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.106273 2025-07-15 00:07:05)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.103827 2025-07-15 00:07:07)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.105662 2025-07-15 00:07:08)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.104690 2025-07-15 00:07:09)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.099888 2025-07-15 00:07:10)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.100330 2025-07-15 00:07:11)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.097630 2025-07-15 00:07:12)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.099964 2025-07-15 00:07:14)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.097515 2025-07-15 00:07:15)
+ 
+  ncycle, CPU, CPU / ncycle         9756   148.9219      1.5264645E-02
+ 
+ 
+  Die Simulation wurde in 0.2093092 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-15 20:52:54)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-15 20:52:55)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-15 20:52:55)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-15 20:52:57)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-15 20:52:57)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-15 20:52:58)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-15 20:52:59)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-15 20:53:00)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-15 20:53:01)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-15 20:53:02)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-15 20:53:02)
+ 
+  ncycle, CPU, CPU / ncycle         5169   72.75000      1.4074289E-02
+ 
+ 
+  Die Simulation wurde in 0.1530342 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.665862 2025-07-15 20:59:52)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.287750 2025-07-15 20:59:53)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.211157 2025-07-15 20:59:53)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.180735 2025-07-15 20:59:54)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.189584 2025-07-15 20:59:55)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.159206 2025-07-15 20:59:56)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.181351 2025-07-15 20:59:57)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.162188 2025-07-15 20:59:58)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.187749 2025-07-15 20:59:59)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.184453 2025-07-15 21:00:00)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.182450 2025-07-15 21:00:00)
+ 
+  ncycle, CPU, CPU / ncycle         5169   75.84375      1.4672809E-02
+ 
+ 
+  Die Simulation wurde in 0.1592550 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.184920 2025-07-15 21:00:53)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.184232 2025-07-15 21:00:54)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.189285 2025-07-15 21:00:55)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.181383 2025-07-15 21:00:56)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.187083 2025-07-15 21:00:56)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.180390 2025-07-15 21:00:58)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.194011 2025-07-15 21:00:58)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.184410 2025-07-15 21:00:59)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.192987 2025-07-15 21:01:00)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.176307 2025-07-15 21:01:01)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.190896 2025-07-15 21:01:02)
+ 
+  ncycle, CPU, CPU / ncycle         5426   76.17188      1.4038311E-02
+ 
+ 
+  Die Simulation wurde in 0.1600735 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.193293 2025-07-15 21:01:55)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.184545 2025-07-15 21:01:56)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.175981 2025-07-15 21:01:56)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.183121 2025-07-15 21:01:57)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.181228 2025-07-15 21:01:58)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.177824 2025-07-15 21:01:59)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.178083 2025-07-15 21:02:00)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.175309 2025-07-15 21:02:01)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.181898 2025-07-15 21:02:01)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.169861 2025-07-15 21:02:03)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.165793 2025-07-15 21:02:03)
+ 
+  ncycle, CPU, CPU / ncycle         5599   73.29688      1.3091065E-02
+ 
+ 
+  Die Simulation wurde in 0.1545839 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.166592 2025-07-15 21:02:56)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.162751 2025-07-15 21:02:58)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.162038 2025-07-15 21:02:58)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.161578 2025-07-15 21:03:00)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.145928 2025-07-15 21:03:00)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.133533 2025-07-15 21:03:01)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.120156 2025-07-15 21:03:02)
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 9948.
+INFO: Letzer gueltiger Zeitschritt= 0 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.117831 2025-07-15 21:03:04)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.110817 2025-07-15 21:03:05)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.108027 2025-07-15 21:03:06)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.105802 2025-07-15 21:03:07)
+ 
+  ncycle, CPU, CPU / ncycle         7529   88.95312      1.1814733E-02
+ 
+ 
+  Die Simulation wurde in 0.1870976 Minuten erfolgreich abgeschlossen.
+ 
+************************************************ 
+ HydroAS 6.0.0     2-Step
+ Build 4                       
+ Rev 95984                                                             
+ Url https://warschau.hydrotec.de/repos/dev/branches/hydroas/HYAS_6_0/h
+************************************************ 
+  Simulation started on CFSERVER
+INFO: Quellterm-Datei ./Data-in/AS/sources-in.dat gefunden.
+ 
+INFO: ./Data-in/AS/nodeniederschlag wurde gelesen.
+ 
+Checkout License for full version.
+ 
+ not enough licenses available for           16 threads
+ *** used threads:           8
+*** number of licenses:            2
+ 
+ 
+INFO: ./Data-in/AS/wtiefe_0 wurde gelesen.
+ 
+ 
+INFO: ./Data-in/AS/geschw_0 wurde gelesen.
+ 
+INFO: Es existiert keine Steuerdatei 'Data-in/control.lua'. Rechnung wird ohne Script-Steuerung durchgefuehrt.
+ 
+FEHLER: Formatfehler in der Datei ./Data-in/AS/sources-in.dat. In Zeile 723.
+INFO: Letzer gueltiger Zeitschritt= -1 s. Berechung erfolgt ab hier ohne Quellterme aus der Datei ./Data-in/AS/sources-in.dat.
+SIMULATIONSZEIT =           0 Sekunden, (DELT: 0.106346 2025-07-15 21:04:00)
+SIMULATIONSZEIT =         100 Sekunden, (DELT: 0.109765 2025-07-15 21:04:01)
+SIMULATIONSZEIT =         200 Sekunden, (DELT: 0.108672 2025-07-15 21:04:02)
+SIMULATIONSZEIT =         300 Sekunden, (DELT: 0.103393 2025-07-15 21:04:04)
+SIMULATIONSZEIT =         400 Sekunden, (DELT: 0.103286 2025-07-15 21:04:05)
+SIMULATIONSZEIT =         500 Sekunden, (DELT: 0.102042 2025-07-15 21:04:06)
+SIMULATIONSZEIT =         600 Sekunden, (DELT: 0.099433 2025-07-15 21:04:07)
+SIMULATIONSZEIT =         700 Sekunden, (DELT: 0.100788 2025-07-15 21:04:09)
+SIMULATIONSZEIT =         800 Sekunden, (DELT: 0.100490 2025-07-15 21:04:10)
+SIMULATIONSZEIT =         900 Sekunden, (DELT: 0.097574 2025-07-15 21:04:11)
+SIMULATIONSZEIT =        1000 Sekunden, (DELT: 0.096336 2025-07-15 21:04:12)
+ 
+  ncycle, CPU, CPU / ncycle         9755   107.6875      1.1039210E-02
+ 
+ 
+  Die Simulation wurde in 0.2261260 Minuten erfolgreich abgeschlossen.
+ 
