@@ -1,0 +1,65 @@
+HA2WEB: Lese 2DM-Datei: D:\Projekte\23042-01\DATEN\HYDRAULIK\02_HQ100\120_Minuten\hydro_as-2d.2dm mit Web-Mercator-Koordinaten ...
+
+Version der 2dm-Datei: 6.0.0
+Netzname: Merged_Last
+Aktivierte Optionen: HydroAS, Niederschläge
+
+Anzahl der Knotenpunkte: 9220
+Anzahl der Elemente: 18046
+
+Simulationszeit [sek]: 10000
+Zeitinterval fuer die Abflussganglinie[sek] : 100
+Zeitinterval fuer das SMS Programm[sek] : 100
+Fortsetzung eines vorigen Rechenlaufs : Nein
+
+HMIN = 0.00100 m
+AMIN = 0.10000 m²
+CFL = 0.8000000
+VELMAX = 15.00000 m/s
+
+Ausgabe aktiviert: Wassertiefe (depth)
+Ausgabe aktiviert: max. Wassertiefe (depth_max)
+Ausgabe aktiviert: Geschwindigkeit (veloc)
+Ausgabe aktiviert: max. Geschwindigkeit (velocity_max)
+Ausgabe deaktiviert: Zeitpkt. der max. Geschw. 
+Ausgabe aktiviert: Wasserspiegellage (wspl)
+Ausgabe aktiviert: max. Wasserspiegellage (wspl_max)
+Ausgabe deaktiviert: Zeitpkt. des max. WSP 
+Ausgabe aktiviert: Pegel (pegel)
+Ausgabe aktiviert: Bauwerke (bw_tmp)
+Ausgabe deaktiviert: Einstaudauer 
+Ausgabe aktiviert: Kontrollquerschnitte (q_strg)
+Ausgabe deaktiviert: max. Schubspannung 
+Ausgabe deaktiviert: feflow-out 
+Ausgabe deaktiviert: zeitabh. Quellterme 
+Ausgabe aktiviert: Rauheit gesamt (kst_gesamt)
+Ausgabe aktiviert: WSPL bei Wehrsteuerung (wehr)
+Ausgabe deaktiviert: Zeitschrittweiten 
+HA2WEB: Koordinatensystem des Eingabemodells: UTM32
+
+HA2WEB: Transformiere Modell
+
+HA2WEB: Anzahl Elemente: 17270
+
+HA2WEB: Anzahl Knoten: 9220
+
+HA2WEB: Projektrahmen in Mercator:
+          6123759.51
+1340575.06          1341926.01
+          6122895.50
+
+HA2WEB: Erzeuge D:/Projekte/23042-01/DATEN/HYDRAULIK/02_HQ100/120_Minuten/animation.hmv
+
+HA2WEB: Erzeuge Modellumring
+
+HA2WEB: Auflösung auf Level 17: 0.797628 m / pixel
+
+HA2WEB: Erzeuge Runoff
+
+HA2WEB: 
+
+HA2WEB: Erzeuge Querprofile
+
+HA2WEB: Fertig!
+
+
